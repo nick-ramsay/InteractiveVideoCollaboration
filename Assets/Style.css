@@ -1,14 +1,23 @@
 body {
     text-align : center;
-    background : #36A;
+    background : whitesmoke;
 }
-h2 {
-    color : white;
-}
+
 canvas {
-    border : 5px white solid;
+    border : 5px black solid;
     /*cursor : pointer;*/
 }
+
+nav {
+  background-color: black;
+  color: gold;
+}
+
+footer {
+  margin-bottom: 0px;
+  background-color: black;
+}
+
 a {
   color : #F93;
 }
